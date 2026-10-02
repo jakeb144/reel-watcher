@@ -1,0 +1,28 @@
+{
+  "generated": "2000-01-01",
+  "sources": {"items": 2, "reels": 2},
+  "buckets": [
+    {
+      "bucket": "hooks",
+      "title": "Hooks",
+      "principles": [
+        {
+          "id": "hooks-01",
+          "principle": "Open with the result, then explain how.",
+          "detail": "Show the finished outcome in the first two seconds.\nExplain the steps after the payoff is on screen.",
+          "note": "Placeholder example, not real data.",
+          "strength": "medium",
+          "n_independent_creators": 2,
+          "n_sources": 2,
+          "best_evidence": "opinion",
+          "conflicts_with": [],
+          "sources": [
+            {"code": "PLACEHOLDER_CODE_1", "author": "creator_a", "views": 120000, "evidence": "opinion", "quote": "placeholder quote"},
+            {"code": "PLACEHOLDER_CODE_2", "author": "creator_b", "views": 8000, "evidence": "opinion", "quote": "placeholder quote"}
+          ]
+        }
+      ]
+    }
+  ],
+  "conflicts": []
+}

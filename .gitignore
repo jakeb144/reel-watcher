@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+reel-watcher-out/
+.work/
+*.mp4
+.env
+.DS_Store
+.pytest_cache/
